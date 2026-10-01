@@ -282,6 +282,7 @@ code {
   font-size: 1.35rem;
 }
 
+.perfil__matricula,
 .perfil__correo {
   margin: 0;
   color: var(--color-texto-suave);

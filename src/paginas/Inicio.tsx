@@ -13,6 +13,7 @@ export function Inicio() {
           <h3 className="perfil__nombre">
             {perfil.nombre} {perfil.apellido}
           </h3>
+          <p className="perfil__matricula">Matrícula: {perfil.matricula}</p>
           <p className="perfil__correo">{perfil.correo}</p>
         </div>
       </article>

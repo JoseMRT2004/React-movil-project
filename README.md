@@ -29,7 +29,7 @@ npm run test      # Ejecutar las pruebas
 
 Todo lo personal está en un solo archivo: **`src/datos.ts`**.
 
-- **`perfil`** — `nombre`, `apellido`, `correo` y `foto`. Los tres primeros tienen el valor `PENDIENTE`; reemplázalo con tus datos.
+- **`perfil`** — `nombre`, `apellido`, `matricula`, `correo` y `foto`.
 - **`YOUTUBE_ID`** — también está en `PENDIENTE`. Coloca aquí el identificador del video de YouTube, es decir, el texto que aparece entre `watch?v=` y `&` en la URL. Ese video se muestra en la sección *Experiencia*.
 
 La foto de perfil 2x2 es **`public/foto.png`**. Para cambiarla, reemplaza ese archivo por tu imagen o actualiza `perfil.foto` en `src/datos.ts` con la ruta de la nueva.
