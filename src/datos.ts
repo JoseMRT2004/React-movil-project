@@ -6,4 +6,4 @@ export const perfil = {
   foto: '/foto.png',
 }
 
-export const YOUTUBE_ID = 'PENDIENTE'
+export const YOUTUBE_ID: string = 'gvlpf7aDfpQ'

@@ -6,11 +6,11 @@ export function Experiencia() {
     <section className="pagina">
       <Encabezado
         titulo="Experiencia"
-        descripcion="Un video y algunas líneas sobre mi experiencia"
+        descripcion="Mi experiencia, con este proyecto"
       />
 
       <div className="tarjeta">
-        {YOUTUBE_ID !== 'PENDIENTE' && (
+        {YOUTUBE_ID && (
           <div className="video">
             <iframe
               className="video__marco"
@@ -23,8 +23,7 @@ export function Experiencia() {
         )}
 
         <p className="parrafo">
-          En esta sección puedes contar tu experiencia con el desarrollo móvil: qué herramientas
-          has usado, qué proyectos has realizado y qué aprendiste en el camino.
+          
         </p>
       </div>
     </section>
