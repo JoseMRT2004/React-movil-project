@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Foto 2x2">
+  <rect width="200" height="200" fill="#eaefff" />
+  <rect x="8" y="8" width="184" height="184" rx="14" fill="none" stroke="#2f5bea" stroke-width="3" stroke-dasharray="10 8" />
+  <circle cx="100" cy="74" r="26" fill="#2f5bea" opacity="0.25" />
+  <path d="M56 150c0-24 20-40 44-40s44 16 44 40z" fill="#2f5bea" opacity="0.25" />
+  <text x="100" y="184" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#1f3fb8">Foto 2x2</text>
+</svg>
